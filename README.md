@@ -1,8 +1,8 @@
 # dayTheme
 
 ![Build](https://github.com/MichaelPaulHP/dayTheme/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/com.github.michaelpaulhp.daytheme.svg)](https://plugins.jetbrains.com/plugin/com.github.michaelpaulhp.daytheme)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/com.github.michaelpaulhp.daytheme.svg)](https://plugins.jetbrains.com/plugin/com.github.michaelpaulhp.daytheme)
 
 ## Template ToDo list
 - [x] Create a new [IntelliJ Platform Plugin Template][template] project.
