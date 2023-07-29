@@ -1,0 +1,151 @@
+{
+  "name": "Day",
+  "dark": false,
+  "author": "michaelpaulhp",
+  "editorScheme": "/theme/Day.xml",
+  "ui": {
+    "*": {
+      "background": "#FBF1C7",
+      "borderColor": "#FBF1C7",
+      "foreground": "#47474a",
+      "infoForeground": "#26A198",
+      "selectionBackground": "#D5C4A1",
+      "selectionForeground": "#313234",
+      "selectionInactiveBackground": "#ece3ba",
+      "selectionBackgroundInactive": "#F2E5BC",
+      "acceleratorForeground": "#bfae64",
+      "acceleratorSelectionForeground": "#aba071",
+      "inactiveBackground": "#fcf3ce"
+    },
+    "Borders": {
+      "color": "#FBF1C7",
+      "ContrastBorderColor": "#FBF1C7"
+    },
+    "SearchEverywhere": {
+      "Header.background": "#F2E5BC",
+      "Tab": {
+        "selectedForeground": "#222324",
+        "selectedBackground": "#D5C4A1"
+      },
+      "SearchField": {
+        "borderColor": "#D5C4A1"
+      }
+    },
+    "CompletionPopup": {
+      "matchForeground": "#FA959E",
+      "selectionBackground": "#D5C4A1"
+    },
+    "DefaultTabs": {
+      "underlineColor": "#26A198",
+      "inactiveUnderlineColor": "#5a6173"
+    },
+    "Editor": {
+      "background": "#FBF1C7",
+      "shortcutForeground": "#26A198"
+    },
+    "EditorPane.inactiveBackground": "#FBF1C7",
+    "EditorTabs": {
+      "underlinedTabBackground": "#FBF1C7",
+      "underlineHeight": "2",
+      "background": "#FBF1C7"
+    },
+    "NavBar.borderColor": "#5a6173",
+    "Notification": {
+      "background": "#F2E5BC",
+      "borderColor": "#F2E5BC",
+      "MoreButton.innerBorderColor": "#3E4B59"
+    },
+    "ParameterInfo": {
+      "foreground": "#232224",
+      "borderColor": "#F2E5BC",
+      "background": "#FBF1C7",
+      "disabledForeground": "#d6d4d4",
+      "infoForeground": "#B48EAD",
+      "currentOverloadBackground": "#5a6173",
+      "currentParameterForeground": "#26A198"
+    },
+    "StatusBar.borderColor": "#F2E5BC",
+    "ToolWindow": {
+      "Header": {
+        "background": "#F2E5BC",
+        "inactiveBackground": "#FBF1C7",
+        "borderColor": "#FBF1C7"
+      },
+      "HeaderTab": {
+        "selectedBackground": "#F2E5BC",
+        "selectedInactiveBackground": "#FBF1C7",
+        "hoverBackground": "#F2E5BC",
+        "hoverInactiveBackground": "#FBF1C7"
+      }
+    },
+    "Tree.rowHeight": 22,
+    "Tree.modifiedItemForeground": "#B16286",
+    "PopupMenu.borderWidth": 0,
+    "PopupMenu.background": "#F2E5BC",
+    "PopupMenu": {
+    },
+    "Popup": {
+      "borderColor": "#F2E5BC",
+      "Header.activeBackground": "#F2E5BC",
+      "Header.inactiveBackground": "#F2E5BC",
+      "separatorColor": "#FBF1C7",
+      "paintBorder": false
+    },
+    "Menu": {
+      "background": "#FBF1C7",
+      "borderColor": "#F2E5BC"
+    },
+    "ActionButton": {
+      "hoverBackground": "#F2E5BC",
+      "pressedBackground": "#F2E5BC"
+    },
+    "Window.border": "#F2E5BC",
+    "WelcomeScreen": {
+      "Projects.selectionBackground": "#FBF1C7",
+      "borderColor": "#FBF1C7",
+      "Projects.selectionInactiveBackground": "#FBF1C7",
+      "separatorColor": "#FBF1C7"
+    },
+    "Button": {
+      "endBackground": "#ece3ba",
+      "endBorderColor": "#FBF1C7",
+      "startBackground": "#ece3ba",
+      "startBorderColor": "#FBF1C7",
+      "default": {
+        "endBackground": "#F2E5BC",
+        "endBorderColor": "#F2E5BC",
+        "focusedBorderColor": "#F2E5BC",
+        "foreground": "#232425",
+        "startBackground": "#F2E5BC",
+        "startBorderColor": "#F2E5BC"
+      }
+    },
+    "List": {
+      "background": "#FBF1C7",
+      "selectionInactiveBackground": "#FBF1C7"
+    }
+
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Blue": "#222222",
+      "Actions.Green": "#222222",
+      "Actions.Grey": "#222222",
+      "Actions.GreyInline": "#222222",
+      "Actions.GreyInline.Dark": "#222222",
+      "Actions.Red": "#222222",
+      "Actions.Yellow": "#222222",
+      "Objects.BlackText": "#222222",
+      "Objects.Blue": "#222222",
+      "Objects.Green": "#222222",
+      "Objects.Grey": "#222222",
+      "Objects.YellowDark": "#222222",
+      "Objects.Yellow": "#222222",
+      "Objects.RedStatus": "#222222",
+      "Objects.Red": "#222222",
+      "Objects.Purple": "#222222",
+      "Objects.Pink": "#222222",
+      "Tree.iconColor": "#222222"
+    }
+  }
+}
