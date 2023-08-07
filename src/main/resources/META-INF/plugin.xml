@@ -2,7 +2,7 @@
 <idea-plugin>
     <id>com.github.michaelpaulhp.daytheme</id>
     <name>Day Theme</name>
-    <version>1.0</version>
+    <version>1.1</version>
     <vendor  email="michael_h_p_@hotmail.com">michaelpaulhp</vendor>
 
     <description>A minimalist and clear theme for your exciting days.</description>
